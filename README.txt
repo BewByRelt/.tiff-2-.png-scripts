@@ -12,7 +12,7 @@ Follow the steps below for an idea of how to use these scripts.
 
 Steps:
 1) Install Image Magick (Skip this step if you have previously installed it)
-	- Run the File Labeled "ImageMagick-7.0.8-16-Q16-x64-dll.exe" that is included with this software
+	- Download the Image Magick install file for windows from https://www.imagemagick.org/script/download.php
 	- Follow the Image Magick Wizard for setup
 2) Copy and Paste the file named "Lower_Resolution_tiff2png.bat" into whatever folder contains the .tiff images 
 you want to process.
